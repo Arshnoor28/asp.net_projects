@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Advertisements>
+	
+	<Ad>
+		<ImageUrl>image_garden1.jpg</ImageUrl>
+		<NavigateUrl>https://www.tourmyindia.com/blog/beautiful-gardens-india/</NavigateUrl>
+		<AlternateText>
+			Garden
+		</AlternateText>
+		<Impressions>1</Impressions>
+		<Keyword>garden</Keyword>
+	</Ad>
+
+	<Ad>
+		<ImageUrl>image_lake2.jpg</ImageUrl>
+		<NavigateUrl>https://www.tourism-of-india.com/lakes/</NavigateUrl>
+		<AlternateText>
+			Lakes
+		</AlternateText>
+		<Impressions>1</Impressions>
+		<Keyword>lakes</Keyword>
+	</Ad>
+
+	<Ad>
+		<ImageUrl>image_mountain3.jpg</ImageUrl>
+		<NavigateUrl>https://www.tourmyindia.com/blog/top-hill-stations-in-india/</NavigateUrl>
+		<AlternateText>
+			Mountain
+		</AlternateText>
+		<Impressions>1</Impressions>
+		<Keyword>garden</Keyword>
+	</Ad>
+
+	<Ad>
+		<ImageUrl>image_beach4.jpg</ImageUrl>
+		<NavigateUrl>https://www.tourism-of-india.com/packages-by-theme/beach-tours/</NavigateUrl>
+		<AlternateText>
+			Beach
+		</AlternateText>
+		<Impressions>1</Impressions>
+		<Keyword>Beach</Keyword>
+	</Ad>
+
+	<Ad>
+		<ImageUrl>image_aurora5.jpg</ImageUrl>
+		<NavigateUrl>https://www.northernalaska.com/tours/aurora?gclid=Cj0KCQjwr-SSBhC9ARIsANhzu16EBMopf9Yzop1YULBAakcwSDCp9-h1Cd9iF38qm4r0X71A5gOdm8AaAj1DEALw_wcB</NavigateUrl>
+		<AlternateText>
+			aurora
+		</AlternateText>
+		<Impressions>1</Impressions>
+		<Keyword>aurora</Keyword>
+	</Ad>
+</Advertisements>
